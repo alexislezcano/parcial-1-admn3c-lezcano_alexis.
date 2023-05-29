@@ -9,12 +9,7 @@
         check: true,
         string: true,
         lista: [],
-        ingreso: null,
-        elegir: [
-            'Completado',
-            'Sin hacer'
-          ],
-          colorPrioridad: ''
+        ingreso: null
       }
     },
   
