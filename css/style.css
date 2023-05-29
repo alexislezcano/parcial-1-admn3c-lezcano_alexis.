@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Roboto:wght@500&display=swap');
+
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(328deg, rgba(255,255,255,1) 0%, rgba(157,157,157,1) 100%);
+}
+
+.form-check-input[type=checkbox] {
+    display: block;
+    border-radius: 0.25em;
+    margin: auto;
+}
+
+.botones {
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    display: block;
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+}
+
+.img-eliminar{
+    width: 2.3rem;
+}
+
+.table {
+    font-size: smaller;
+}
